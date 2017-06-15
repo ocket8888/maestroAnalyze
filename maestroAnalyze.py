@@ -132,6 +132,7 @@ paleBlue = (145, 163, 210)
 paleTurquoise = (175, 255, 222)
 
 screen = pygame.display.set_mode(screenSize)
+pygame.display.set_caption(sample_description)
 screen.fill(white)
 pygame.display.update()
 

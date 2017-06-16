@@ -2059,8 +2059,9 @@ $DATA:
        0
        0
 $ROI:
-1
+2
 607 711
+177 227
 $PRESETS:
 Live Time
 1200
